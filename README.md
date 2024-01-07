@@ -34,3 +34,9 @@ Join our community for discussions, feature requests, or issue reporting. Your f
 
 ## Contact
 For further inquiries, collaborations, or support, please contact me at [cdanol](https://twitter.com/cdanol).
+
+---
+
+Please note, this repository is a community-driven project and may not list all existing GPT agents in compliance. Contributions are welcome – feel free to add your own creations!
+
+**Disclaimer: Users should exercise caution and evaluate the agents before use. Additionally please note that some of these GPTs are still in experimental test phase.**
