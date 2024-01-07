@@ -16,6 +16,7 @@ We actively encourage community contributions to the ComplianceAI Hub. If you ha
 
 ## Featured GPT Model
 * [Regulytix AI](https://chat.openai.com/g/g-Jj2Fluu08-regulytix-ai): ReguLytix AI is the first featured model in our repository. It offers comprehensive integration with various openFDA APIs, enhancing capabilities in Life Science and Healthcare. This model covers APIs like Device 510(k), Drug Events, and many more.
+* [CSVAdvisory AI](https://chat.openai.com/g/g-0NeRqfsVd-csvadvisory-ai): The CSVAdvisory AI is a specialized tool focused on Computer System Validation (CSV) in the pharmaceutical industry, aligning with EU EudraLex Annex 11 and GxP guidelines. It provides guidance on supplier and vendor assessment, emphasizes the ALCOA+ principles for data integrity, and offers compliance strategies throughout the data lifecycle. This guide is essential for professionals in life sciences navigating CSV and regulatory requirements.
 
 ## Usage Scenarios
 The GPT models listed here are applicable in various industries for compliance and quality assurance purposes. They can help automate and enhance various processes in these sectors.
