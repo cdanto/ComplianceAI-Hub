@@ -1,0 +1,22 @@
+# Security Policy
+
+## Reporting a Vulnerability
+
+# Objective:
+To provide a clear and secure process for reporting vulnerabilities discovered in the GitHup Compliance GPT Agents.
+
+# Policy:
+If you encounter a security vulnerability while using the GitHup GPT Agents, we encourage you to report it as soon as possible. This allows us to address the issue promptly and maintain the security and integrity of our service.
+
+# Procedure:
+1. **Identification**: If you suspect a vulnerability, note the specific circumstances under which it occurs, including the time, the nature of the issue, and any relevant details that could help in its resolution.
+2. **Confidential Reporting**: To report the vulnerability, please use the following secure link: Vulnerability Reporting Form (https://github.com/cdanto/Compliance-GPT-Agents/issues). Do not disclose the vulnerability publicly or to unauthorized individuals, as it could potentially be exploited maliciously.
+3. **Information Required**:
+    * Your contact information for follow-up questions.
+    * A detailed description of the vulnerability.
+    * Steps to reproduce the vulnerability, if possible.
+    * Any additional information or screenshots that could be helpful.
+4. **Response**: Upon receiving your report, our security team will promptly investigate the issue. We may contact you for further information if necessary.
+5. **Confidentiality**: All reports are treated with the utmost confidentiality. Your personal information and the details of the vulnerability will be handled securely to protect your privacy and the security of our systems.
+6. **Acknowledgment and Updates**: We will acknowledge the receipt of your report within 24 hours. You will be kept informed about the progress of addressing the vulnerability.
+7. **Resolution and Disclosure**: Once the vulnerability is resolved, we may, at our discretion, publicly acknowledge your contribution in identifying the issue, unless you prefer to remain anonymous.
