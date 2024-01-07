@@ -1,4 +1,4 @@
-# ComplianceAI Hub
+# ComplianceAI Hub 🛡️
 Centralizing GPT Models for Quality and Compliance.
 
 ## Introduction
@@ -17,9 +17,6 @@ We actively encourage community contributions to the ComplianceAI Hub. If you ha
 ## Featured GPT Model
 * [Regulytix AI](https://chat.openai.com/g/g-Jj2Fluu08-regulytix-ai): ReguLytix AI is the first featured model in our repository. It offers comprehensive integration with various openFDA APIs, enhancing capabilities in Life Science and Healthcare. This model covers APIs like Device 510(k), Drug Events, and many more.
 
-### List of Contributors
-- See the [list of contributors](https://github.com/cdanto/ComplianceAI-Hub/graphs/contributors) who have participated in this project. We appreciate and value every contribution to the repository.
-
 ## Usage Scenarios
 The GPT models listed here are applicable in various industries for compliance and quality assurance purposes. They can help automate and enhance various processes in these sectors.
 
@@ -32,11 +29,14 @@ All contributions to the ComplianceAI Hub are licensed under the Apache License 
 ## Community and Support
 Join our community for discussions, feature requests, or issue reporting. Your feedback and participation are invaluable.
 
+### List of Contributors
+- See the [list of contributors](https://github.com/cdanto/ComplianceAI-Hub/graphs/contributors) who have participated in this project. We appreciate and value every contribution to the repository.
+
 ## Contact
 For further inquiries, collaborations, or support, please contact me at [cdanol](https://twitter.com/cdanol).
 
 ---
 
-Please note, this repository is a community-driven project and may not list all existing GPT agents in compliance. Contributions are welcome – feel free to add your own creations!
+▶️ Please note, this repository is a community-driven project and may not list all existing GPT agents in compliance. Contributions are welcome – feel free to add your own creations!
 
-**Disclaimer: Users should exercise caution and evaluate the agents before use. Additionally please note that some of these GPTs are still in experimental test phase.**
+🚩 **Disclaimer: Users should exercise caution and evaluate the agents before use. Additionally please note that some of these GPTs are still in experimental test phase.**
